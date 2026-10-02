@@ -120,6 +120,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [WTF Should I make for dinner](http://www.whatthefuckshouldimakefordinner.com/): Same concept: Tell
   the site what you have and see a list of possible recipes.
 
+* [Custom Spinner Wheel](https://customspinnerwheel.com/): Free online spinner wheel — custom wheels, random picker, team generator. No signup needed.
 ## 💰 Shopping and Deals
 
 * [car-part.com](https://www.car-part.com/): Locate the nearest recycler that has specific parts for your car.
